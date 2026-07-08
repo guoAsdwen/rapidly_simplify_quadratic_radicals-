@@ -1,0 +1,2 @@
+# rapidly_simplify_quadratic_radicals-
+一个快速的化简根号a的方法
