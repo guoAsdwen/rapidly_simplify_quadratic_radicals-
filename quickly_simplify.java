@@ -9,7 +9,7 @@ public class quickly_simplify {
     int out = 1;
     int odd_max_root = (int)max_root>>1;
     odd_max_root = (odd_max_root<<1)+1;
-    int remain = (int)original;
+    long remain = original;
     if((original_sqrt-original_sqrt_int)==0) {
 	    return(String.valueOf(original_sqrt_int));
     }else {
